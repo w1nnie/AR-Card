@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="railroadCrossing_s" size="1.000000 0.707031" />
+    <ImageTarget name="card_b_4" size="1.000000 0.604186" />
+    <ImageTarget name="card_b_3" size="1.000000 0.604396" />
+    <ImageTarget name="newYear_s" size="1.000000 0.706956" />
+    <ImageTarget name="card_b" size="1.000000 0.604186" />
+    <ImageTarget name="card_b_2" size="1.000000 0.604186" />
     <ImageTarget name="sakura" size="1.000000 1.135000" />
   </Tracking>
 </QCARConfig>
